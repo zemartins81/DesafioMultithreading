@@ -1,3 +1,3 @@
-module github.com/zemartins81/posgoExpert/Multithreading
+module github.com/zemartins81/DesafioMultithreading
 
 go 1.23.2
